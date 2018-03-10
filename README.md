@@ -3,7 +3,8 @@
 Landing page for developers.
 
 Created by Dinesh Pandiyan: https://flexdinesh.github.io
-Used Under Licence
+
+Used under licence
 
 ## License
 

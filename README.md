@@ -2,7 +2,7 @@
 
 Landing page for developers.
 
-Created by Dinesh Pandiyan: https://flexdinesh.github.io
+Created by Dinesh Pandiyan
 
 Used under licence
 
